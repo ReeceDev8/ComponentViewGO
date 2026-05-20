@@ -44,8 +44,21 @@
 * **Frameworks:** CoreML, Vision, AVFoundation (Camera capture pipeline)
 * **Machine Learning Interface:** CoreML API utilizing MobileNetV2 architecture
 * **Training Pipeline Backend:** Python, TensorFlow, Keras, CoreMLTools
+  
+---
+
+## Model Training Performance
+To evaluate the underlying MobileNetV2 classification network, training and validation metrics were tracked across 50 epochs:
+
+<p align="center">
+  <img src=".github/assets/training_metrics.png" width="800" alt="Model Training and Validation Loss and Accuracy Curves" />
+</p>
+
+* **Generalization:** The validation loss closely mirrors the training loss curve, confirming that the model successfully minimized overfitting.
+* **Convergence:** The architecture achieved a stable accuracy plateau of ~73%, validating the model's reliability for on-device hardware classification tasks. Further improvement will require a larger dataset.
 
 ---
+
 
 ## Repository Structure
 
