@@ -47,28 +47,28 @@
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ComponentViewGO/
 ├── ComponentViewGOApp.swift      # Main Application Entry Point
 ├── ContentView.swift             # Root View Router & Layout Coordinator
 │
-├── 📁 ViewModels/
+├── ViewModels/
 │   └── ViewModel.swift           # Asynchronous Prediction Logic & State Management
 │
-├── 📁 Views/
+├── Views/
 │   └── TipsView.swift            # SwiftUI Layout displaying installation advice
 │
-├── 📁 UIViewRepresentables/
+├── UIViewRepresentables/
 │   └── ImagePicker.swift         # UIKit-to-SwiftUI Bridge handling device camera streams
 │
-├── 📁 Models/
+├── Models/
 │   └── Picker.swift              # Hardware camera permission configurations & error management
 │
-├── 📁 Extensions/
+├── Extensions/
 │   ├── Double+Extension.swift    # Precision rounding utilities for prediction confidence
 │   └── UIImage+Extension.swift   # Image resizing and CVPixelBuffer conversion pipelines
 │
-└── 📁 Resources/
-    └── 📁 PCComponentRecognitionModel.mlmodelc/  # Compiled on-device CoreML binary bundle
+└── Resources/
+    └── PCComponentRecognitionModel.mlmodelc/  # Compiled on-device CoreML binary bundle
