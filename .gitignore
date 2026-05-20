@@ -20,3 +20,10 @@ Products/
 *.swp
 *.lock
 profile
+
+# Hide automated testing boilerplate
+*Tests/
+*UITests/
+
+# Hide raw machine learning packages
+*.mlpackage/
