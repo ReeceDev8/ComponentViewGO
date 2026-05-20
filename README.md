@@ -1,10 +1,8 @@
 <div align="left">
-  <img src="Applogo.png" width="130" alt="ComponentViewGO Logo" align="left" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src=".github/assets/Applogo.png" width="130" alt="ComponentViewGO Logo" align="left" style="margin-right: 20px; margin-bottom: 20px;" />
   <h1>ComponentViewGO</h1>
 </div>
-
-<br clear="left" />
-<br />
+---
 
 ComponentViewGO is an iOS application designed to assist users during custom PC assembly by utilizing on-device machine learning to identify hardware components in real-time and give installation tips/advice. 
 
