@@ -7,7 +7,7 @@ ComponentViewGO is an iOS application designed to assist users during custom PC 
 ## App Demo
 
 <details>
-<summary><b>▶ Click here to see the demo./b></summary>
+<summary><b>▶ Click here to see the demo.</b></summary>
 <br />
 
 <table align="center">
