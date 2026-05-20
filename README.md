@@ -1,4 +1,14 @@
-# ComponentViewGO: AI-Powered PC Building Helper
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="120" valign="middle">
+      <img src=".github/assets/Applogo.png" width="100" alt="ComponentViewGO Logo" />
+    </td>
+    <td valign="middle">
+      <h1>ComponentViewGO</h1>
+      <p><b>AI-Powered PC Building Helper</b></p>
+    </td>
+  </tr>
+</table>
 
 ComponentViewGO is an iOS application designed to assist users during custom PC assembly by utilizing on-device machine learning to identify hardware components in real-time and give installation tips/advice. 
 
