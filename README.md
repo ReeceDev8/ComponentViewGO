@@ -5,18 +5,25 @@ ComponentViewGO is an iOS application designed to assist users during custom PC 
 ---
 
 ## App Demo
-<table>
+
+<details>
+<summary><b>▶ Click here to see the demo./b></summary>
+<br />
+
+<table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
       <b>Main Scanning View</b><br />
-      <img src=".github/assets/Main_View.gif" width="100%" alt="Main Core ML Scanner View" />
+      <img src=".github/assets/Main_View.gif" width="280" alt="Main Core ML Scanner View" />
     </td>
-    <td align="center" width="50%">
+    <td align="center">
       <b>Contextual Tips View</b><br />
-      <img src=".github/assets/Tips_View.gif" width="100%" alt="Contextual Component Installation Tips" />
+      <img src=".github/assets/Tips_View.gif" width="280" alt="Contextual Component Installation Tips" />
     </td>
   </tr>
 </table>
+
+</details>
 
 ---
 
