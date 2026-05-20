@@ -9,11 +9,11 @@ ComponentViewGO is an iOS application designed to assist users during custom PC 
   <tr>
     <td align="center" width="50%">
       <b>Main Scanning View</b><br />
-      <img src=".github/assets/Main-View.gif" width="100%" alt="Main Core ML Scanner View" />
+      <img src=".github/assets/Main_View.gif" width="100%" alt="Main Core ML Scanner View" />
     </td>
     <td align="center" width="50%">
       <b>Contextual Tips View</b><br />
-      <img src=".github/assets/Tips-View.gif" width="100%" alt="Contextual Component Installation Tips" />
+      <img src=".github/assets/Tips_View.gif" width="100%" alt="Contextual Component Installation Tips" />
     </td>
   </tr>
 </table>
