@@ -1,0 +1,22 @@
+# Xcode user specific settings
+userdata/
+xcuserdata/
+智能提示/
+
+# Derived Data and Build artifacts
+DerivedData/
+build/
+Index.noindex/
+Build/
+Products/
+
+# Architecture logs & Crash logs
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# macOS system clutter
+.DS_Store
+*.swp
+*.lock
+profile
