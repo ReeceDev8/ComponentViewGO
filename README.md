@@ -42,7 +42,7 @@
 ## Architecture
 * **Frontend:** SwiftUI (MVVM Architecture)
 * **Frameworks:** CoreML, Vision, AVFoundation (Camera capture pipeline)
-* **Machine Learning Interface:** CoreML API utilizing an optimized MobileNetV2 architecture
+* **Machine Learning Interface:** CoreML API utilizing MobileNetV2 architecture
 * **Training Pipeline Backend:** Python, TensorFlow, Keras, CoreMLTools
 
 ---
