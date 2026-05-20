@@ -1,10 +1,10 @@
-<div align="left">
-  <img src=".github/assets/Applogo.png" width="130" alt="ComponentViewGO Logo" align="left" style="margin-right: 15px; margin-bottom: 5px;" />
-  <h1 style="margin-top: 0; margin-bottom: 5px;">ComponentViewGO</h1>
-  <p style="margin: 0;">ComponentViewGO is an iOS application designed to assist users during custom PC assembly by utilizing on-device machine learning to identify hardware components in real-time and give installation tips/advice.</p>
+<div style="display: grid; grid-template-columns: 130px 1fr; gap: 20px; align-items: center; margin-bottom: 15px;">
+  <img src=".github/assets/Applogo.png" width="130" alt="ComponentViewGO Logo" style="display: block;" />
+  <div>
+    <h1 style="margin: 0 0 5px 0; line-height: 1.2;">ComponentViewGO</h1>
+    <p style="margin: 0; line-height: 1.4;">ComponentViewGO is an iOS application designed to assist users during custom PC assembly by utilizing on-device machine learning to identify hardware components in real-time and give installation tips/advice.</p>
+  </div>
 </div>
-
-<br clear="left" />
 
 ---
 
